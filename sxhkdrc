@@ -1,0 +1,22 @@
+# open terminal
+super + shift + t
+	kitty
+
+
+# Rofi
+super + d
+	rofi -show drun
+
+# Rofi running applications
+super + shift + d
+        rofi -show
+
+# reload sxhkd
+super + alt + shift + s
+	pkill -USR1 -x sxhkd
+
+#VSCodium
+
+super + shift + v
+vscodium
+
